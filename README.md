@@ -27,5 +27,5 @@ I am a self-taught programmer who has been obsessed with programming for the pas
 
 #
 <details>
- ### <summary><h3>👨‍💻 More about my coding jurney</h3></summary>
+   <summary><h3>👨‍💻 More about my coding jurney</h3></summary>
    here you go 
