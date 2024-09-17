@@ -4,6 +4,8 @@ I am a self-taught programmer who has been obsessed with programming for the pas
 
 ### 🧰 Languages and Tools
 
+These are the languages I have been using the most. Almost all of my projects were done in Visual Studio.
+
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
@@ -25,7 +27,7 @@ I am a self-taught programmer who has been obsessed with programming for the pas
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasgagyi&show_icons=true&theme=github_dark)
 
-
+#
 <details>
-   <summary><h3>👨‍💻 More about my coding jurney</h3></summary>
+   <summary><h3>👨‍💻 About my coding jurney</h3></summary>
    here you go 
