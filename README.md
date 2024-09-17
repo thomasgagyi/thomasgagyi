@@ -31,9 +31,8 @@ These are the languages and tools I have been using the most. Almost all of my p
 <details>
    <summary><h3>👨‍💻 About my coding jurney</h3></summary>
    here you go 
-   
+</details>
 <details>
    <summary><h3>Connect with me</h3></summary>
    here you go 
-   here you go 
-   here you go 
+</details>
