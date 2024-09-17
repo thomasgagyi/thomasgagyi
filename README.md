@@ -25,7 +25,7 @@ I am a self-taught programmer who has been obsessed with programming for the pas
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasgagyi&show_icons=true&theme=github_dark)
 
-#
+
 <details>
    <summary><h3>👨‍💻 More about my coding jurney</h3></summary>
    here you go 
