@@ -4,7 +4,7 @@ I am a self-taught programmer who has been obsessed with programming for the pas
 
 ### 🧰 Languages and Tools
 
-These are the languages I have been using the most. Almost all of my projects were done in Visual Studio.
+These are the languages and tools I have been using the most. Almost all of my projects were done in Visual Studio.
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
