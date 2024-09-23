@@ -53,5 +53,7 @@ Today, I continue working on my projects, making libraries and personal applicat
    <a href="https://www.linkedin.com/in/thomas-gagyi/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
+   <img src="https://img.shields.io/badge/thomas.gagyi@gmail.com%0D%0A-8A2BE2" alt="Email"/>
+   
 </div>
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
