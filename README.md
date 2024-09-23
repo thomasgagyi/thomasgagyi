@@ -49,12 +49,11 @@ Today, I continue working on my projects, making libraries and personal applicat
 </details>
 
 ### Connect with me
-<div style="flex; align-items: center;">
-   <a href="https://www.linkedin.com/in/thomas-gagyi/">
+<div style="text-align: center;">
+   <a href="https://www.linkedin.com/in/thomas-gagyi/" style="vertical-align: middle; display: inline-block;">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
-   <a href="mailto:thomas.gagyi@gmail.com">
+   <a href="mailto:thomas.gagyi@gmail.com" style="vertical-align: middle; display: inline-block;">
       <img src="https://img.shields.io/badge/thomas.gagyi@gmail.com%0D%0A-8A2BE2" alt="Email"/>
    </a>
-   
 </div>
