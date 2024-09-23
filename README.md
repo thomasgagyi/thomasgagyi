@@ -49,7 +49,7 @@ Today, I continue working on my projects, making libraries and personal applicat
 </details>
 
 ### Connect with me
-<div display="flex; align-items: center;">
+<div style="flex; align-items: center;">
    <a href="https://www.linkedin.com/in/thomas-gagyi/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
