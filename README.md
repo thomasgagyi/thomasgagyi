@@ -49,12 +49,12 @@ Today, I continue working on my projects, making libraries and personal applicat
 </details>
 
 ### Connect with me
-<div>
-   <a align="middle" href="https://www.linkedin.com/in/thomas-gagyi/">
+<div display="flex">
+   <a href="https://www.linkedin.com/in/thomas-gagyi/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
    <h2 align="left" style="vertical-align: middle;">
-    <img src="https://img.shields.io/badge/Download-1.0.0-blue.svg"><sup><sub> - MIN API 16</sub></sup>
-</h2>
+    <img src="https://img.shields.io/badge/thomas.gagyi@gmail.com%0D%0A-8A2BE2" alt="Email"/>
+   </h2>
 
 </div>
