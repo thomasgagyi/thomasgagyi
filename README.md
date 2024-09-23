@@ -54,3 +54,4 @@ Today, I continue working on my projects, making libraries and personal applicat
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
 </div>
+![Static Badge](https://img.shields.io/badge/:badgeContent)
