@@ -47,11 +47,10 @@ Eventually, I decided to take another step and learn driver development. As usua
 Today, I continue working on my projects, making libraries and personal application while improving my code and adhering to best practices, following naming conventions and design patterns used in real-world applications. I’m proud of how far I’ve come, but I know there’s still MUCH more to learn.
   Thank you for reading to the end.
 </details>
-<details>
-   <summary><h3>Connect with me</h3></summary>
-   <div display="flex">
-     <a href="https://www.linkedin.com/in/thomas-gagyi/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-     </a>
-   </div>
-</details>
+
+### Connect with me
+<div display="flex">
+   <a href="https://www.linkedin.com/in/thomas-gagyi/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   </a>
+</div>
