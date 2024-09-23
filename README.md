@@ -49,5 +49,9 @@ Today, I continue working on my projects, making libraries and personal applicat
 </details>
 <details>
    <summary><h3>Connect with me</h3></summary>
-   here you go 
+   <div display="flex">
+     <a href="https://www.linkedin.com/in/thomas-gagyi/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+     </a>
+   </div>
 </details>
