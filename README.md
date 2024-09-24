@@ -7,26 +7,25 @@ I am a self-taught programmer who has been obsessed with programming for the pas
 These are the languages and tools I have been using the most. Almost all of my projects were done in Visual Studio.
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/>
 
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
-
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"/>
 
 <br />
 
 #
 
 ### 📊 Stats
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasgagyi&show_icons=true&theme=github_dark)
-
 #
+
 <details>
    <summary><h3>👨‍💻 About my coding jurney</h3></summary>
 I was introduced to programming in middle school by my IT teacher, who taught us the basics of coding and logic. We started with Scratch and, within a year, moved on to C++, learning it from scratch. I did quite well in school, so my teacher invited me, along with a few classmates, to join an IT contest practice group where we worked on competition problems. However, I struggled with the complex syntax of C++ and the challenging questions. Despite trying my best, I decided to leave the group to focus more on my schoolwork and maintain my grades.
