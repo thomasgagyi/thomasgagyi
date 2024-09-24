@@ -21,7 +21,6 @@ These are the languages and tools I have been using the most. Almost all of my p
 <br />
 
 #
----
 
 ### 📊 Stats
 
@@ -49,12 +48,8 @@ Today, I continue working on my projects, making libraries and personal applicat
 </details>
 
 ### Connect with me
-<div display="flex">
+<div>
    <a href="https://www.linkedin.com/in/thomas-gagyi/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
    </a>
-   <a href="mailto:thomas.gagyi@gmail.com">
-      <img src="https://img.shields.io/badge/thomas.gagyi@gmail.com%0D%0A-8A2BE2" alt="Email"/>
-   </a>
-
 </div>
